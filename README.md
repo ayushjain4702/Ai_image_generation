@@ -9,7 +9,9 @@ AI Image Generation is an application built using React.js, Node.js, Tailwind CS
 
 2. **Pre-Generated Prompts**: To facilitate quick and diverse image generation, the application offers a collection of 50 pre-generated prompts. Users can choose from these prompts as a starting point for their AI-generated images.
 
-3. **Image Sharing and Showcasing**: AI Image Generation allows users to effortlessly share and showcase their creative outputs. Users can easily post their AI-generated images directly to the community, enabling them to receive feedback, appreciation, and engage with other users.
+3. **Image Download**: Users can download the AI-generated images directly from the application. This feature allows users to save the generated images to their local devices for further use or offline access.
+
+4. **Image Sharing and Showcasing**: AI Image Generation allows users to effortlessly share and showcase their creative outputs. Users can easily post their AI-generated images directly to the community, enabling them to receive feedback, appreciation, and engage with other users.
 
 
 
