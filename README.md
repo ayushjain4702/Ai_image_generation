@@ -13,3 +13,7 @@ AI Image Generation is an application built using React.js, Node.js, Tailwind CS
 
 
 
+## Demonstration
+
+https://github.com/ayushjain4702/Ai_image_generation/assets/80087899/de0c0218-fb7a-48c6-9dbe-05f5b5bde54d
+
